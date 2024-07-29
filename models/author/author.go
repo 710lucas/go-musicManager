@@ -9,9 +9,7 @@ type Author struct {
 
 	person.Person
 
-	musicsId []int
+	MusicsIds []int
 
-	followersIds []int
-
-	likes int
+	FollowersIds []int
 }

@@ -7,7 +7,7 @@ type User struct {
 
 	person.Person
 
-	favoriteMusicsId []int
-	likedMusicsId    []int
-	followingIds     []int
+	FavoriteMusicsId []int
+	LikedMusicsId    []int
+	FollowingIds     []int
 }
